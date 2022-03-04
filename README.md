@@ -5,3 +5,7 @@
  1. Programming for Chemists and Biochemists using Python
  
  2. Coursera: An Introduction to Interactive Programming in Python
+ 
+ 3. Coursera: Algorithms for DNA Sequencing
+
+
